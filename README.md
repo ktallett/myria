@@ -1,2 +1,2 @@
 # myria
-For of antirez' kilo editor
+Fork of antirez' kilo editor
